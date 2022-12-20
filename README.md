@@ -1,7 +1,7 @@
 # cwhacks-1.19.2
-a hack similar to CWhacks, just for 1.19.2
+a crystal pvp ghost client hack similar to CWhacks, just for 1.19.2
 
-_usuage_
+# usuage_
 /fastcrystal - enable or disable fastcrystal hacks
 /autototem - enable or disable autototem
 /autoanchor - enable or disable autoanchor
