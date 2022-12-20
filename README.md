@@ -1,7 +1,7 @@
 # cwhacks-1.19.2
 a hack similar to CWhacks, just for 1.19.2
 
-*usuage*
+_usuage_
 /fastcrystal - enable or disable fastcrystal hacks
 /autototem - enable or disable autototem
 /autoanchor - enable or disable autoanchor
